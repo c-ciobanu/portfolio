@@ -1,0 +1,8 @@
+@import "common.scss";
+
+.project {
+	display: grid;
+	grid-template-columns: 1fr auto auto;
+	column-gap: 30px;
+	color: #fff;
+}
